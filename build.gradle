@@ -2,7 +2,7 @@
 buildscript {
     dependencies {
         //classpath "com.appdynamics:appdynamics-gradle-plugin:22.2.2"
-        classpath "com.appdynamics:appdynamics-gradle-plugin:23.2.1"
+        classpath "com.appdynamics:appdynamics-gradle-plugin:23.7.1"
     }
 }
 plugins {
